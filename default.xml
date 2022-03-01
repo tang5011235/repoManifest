@@ -2,7 +2,7 @@
 <manifest>
      <remote name="origin" fetch="."/>
 
-     <default revision="master" remote="origin" sync-j="4" />
+     <default revision="main" remote="origin" sync-j="4" />
 
      <project name="repoDemo1"             path="repoDemo1"/>
 	 <project name="repoDemo2"             path="repoDemo2"/>
